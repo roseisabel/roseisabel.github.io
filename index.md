@@ -10,7 +10,7 @@ My GitHub page is http://github.com/roseisabel.
 
 * Lab 4
 
-    Lab 4, part 2, was my favorite lab of the semester because the code my lab partner and I wrote generated a fun, interactive guessing game between the terminal and the user. The guessing game consisted of many if and if-else statements. I was able to write an if-else statement to determine whether the user’s guess was equal to the secret, and if it wasn’t, I wrote for the terminal to print that the guess was either too high or too low.
+    Lab 4, part 2, was my favorite lab of the semester because the code my lab partner and I wrote generated a fun, interactive guessing game between the terminal and the user. The guessing game consisted of many if and if-else statements. I was able to write an if-else statement to determine whether the user’s guess was equal to the secret, and if it wasn’t, to print that the guess was either too high or too low.
 
 * Lab 6
 

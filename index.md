@@ -4,7 +4,7 @@ This is my home page! My name is Rose Garcia and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/roseisabel.](https://github.com/roseisabel).
+My GitHub page is [http://github.com/roseisabel.](https://github.com/roseisabel)
 
 ### CPSC 120
 

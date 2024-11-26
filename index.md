@@ -18,5 +18,5 @@ My GitHub page is http://github.com/roseisabel.
 
 * Lab 8
 
-    Lab 8, part 2, would have to be my third favorite lab of the semester because it was interesting to see how loops could print many symbols in a precise manner with only a few loop statements. In this lab, we wrote counter-controlled for loops to make this possible. I was able to write a counter-controlled for loops to print a block of symbols until our counter reached 22.
+    Lab 8, part 2, would have to be my third favorite lab of the semester because it was interesting to see how loops could print many symbols in a precise manner with only a few loop statements. In this lab, we wrote counter-controlled for loops to make this possible. I was able to write a counter-controlled for loop to print a block of symbols until our counter reached 22.
   
